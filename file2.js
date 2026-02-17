@@ -3,3 +3,7 @@ console.log('Hello from file2')
 function hello() {
     return 'Hello';
 }
+// Вторая функция
+function goodbye() {
+    return 'Goodbye';
+}
